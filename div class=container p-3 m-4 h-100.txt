@@ -1,0 +1,608 @@
+<div class="container p-3 m-4 h-100"
+            style="background-color: #FFFFFF; border-top: 5px solid #000000; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+            <h4>List Cerita Anak</h4>
+            <hr>
+            <!-- <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/tikus_yang_cerdik/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Tikus Yang Cerdik</h5>
+                            <a href="cerita01.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/berjalan_jalan_bersama_mama/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Berjalan Bersama Mama</h5>
+                            <a href="cerita02.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/pergi_ke_kota_besar/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Pergi Ke Kota Besar</h5>
+                            <a href="cerita03.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more cards -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/ada_alien_di_rumahku/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Ada Alien di Rumahku</h5>
+                            <a href="cerita04.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/bau_apa_ini/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Bau Apa Ini</h5>
+                            <a href="cerita05.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/mari_menerbangkan_pesawat/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Mari Menerbangkan Pesawat</h5>
+                            <a href="cerita06.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/para_arkeolog_cilik/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Para Arkeolog Cilik</h5>
+                            <a href="cerita07.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/pergi_ke_pasar/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Pergi ke Pasar</h5>
+                            <a href="cerita08.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/perjamuan_kerajaan/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Perjamuan Kerajaan</h5>
+                            <a href="cerita09.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/singa_selalu_pemberani/cover.jpg" width="30px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Singa Selalu Pemberani</h5>
+                            <a href="cerita10.html" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/Kalah_oleh_si_cerdik/sampul.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Kalah Oleh Si Cerdik</h5>
+                            <a href="https://badanbahasa.kemdikbud.go.id/resource/doc/files/74._Isi_dan_Sampul_Kalah_oleh_Si_Cerdik.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/Candi_yang_terhebat/sampul.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Candiku Yang Terhebat</h5>
+                            <a href="https://badanbahasa.kemdikbud.go.id/resource/doc/files/Candiku_Yang_Terhebat_Atak_Esa_ok.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/komentarlah dengan bijak.jpg" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Komentarlah Dengan Bijak Biar Sosmed Jadi Enak</h5>
+                            <a href="https://api.literasidigital.id/v1/download/book?book_id=959&url_download=https://drive.google.com/file/d/1Ne_v2Giv8LCBVphgdJIxgl1wsBDL2qwk/view?usp=drive_link" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/kejahatan.jpg" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Kejahatan Cyber Bullying</h5>
+                            <a href="https://api.literasidigital.id/v1/download/book?book_id=958&url_download=https://drive.google.com/file/d/1pz1N8L-sz0WOTj5ZaiCL9iQ__jt4xB6T/view?usp=drive_link" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/dampak penggunaan.jpg" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h6 class="card-title">Dampak Penggunaan Media Sosial Bagi Anak dan Remaja</h6>
+                            <a href="https://api.literasidigital.id/v1/download/book?book_id=723&url_download=https://drive.google.com/file/d/1RzLtPv4pgauwsPB6vimhyZ3XCotIqY_5/view?usp=sharing" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/Literasi Digital Keluarga.jpg" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h6 class="card-title">Teori dan Praktik Pendampingan Orangtua Terhadap Anak Dalam Berinternet </h6>
+                            <a href="https://drive.google.com/file/d/1q9UzpuMvB0LDFm1UuddxZnlIJE43jXiY/view" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/aku bijak dunia digital.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Aku Bijak Di Dunia Digital</h5>
+                            <a href="https://drive.google.com/file/d/1Leh4FmK1rd1PmGpDJhJljvcd5awLBybk/view" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/sekolah gaul.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Sekolah Gaul Anti Kekerasan</h5>
+                            <a href="https://sma.kemdikbud.go.id/ebookread/93" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/pesan damai nasi kembar.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Pesan Damai Nasi Kembar</h5>
+                            <a href="https://badanbahasa.kemdikbud.go.id/resource/doc/files/Pesan_Damai_Nasi_Kembar_ok.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/petualangan ke masa lalu.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Petualangan Ke Masa Lalu</h5>
+                            <a href="https://badanbahasa.kemdikbud.go.id/resource/doc/files/Petualangan_ke_Masa_Lalu_ok.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Buku Sastrawan -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/Dana Dou Dompu.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Dompu</h5>
+                            <a href="https://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/Dompu.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/transportasi.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Transportasi</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/db91fc18-c611-4a9a-8dd5-a91cc4c3be3c/Transportasi.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/nyanyianhujan.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Nyanyian Hujan</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/c06989da-27ec-48c8-b441-d53b8ff7a8a5/Nyanyian%20Hujan.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/brontosaurus.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Kisah Brontosaurus</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/61694000-f8af-47c1-8123-fcf032cf8618/Kisah%20Brontosaurus.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/mencaripluto.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Mencari Pluto</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/466895a7-6ee9-4366-88ed-eaa1c79b872a/Mencari%20Pluto.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/mikro.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Mikroorganisme</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/27943cbb-61c1-484c-9ddb-7106d4db1885/Mikroorganisme.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/pesawat.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Bagaimana Cara Pesawat Bisa Terbang</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/4ffd114c-bb9f-482a-8c31-8459ca109ca5/Bagaimana%20Cara%20Pesawat%20Bisa%20Terbang?.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/bulan.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Jika Kamu Tinggal Di Bulan</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/b10d65cb-b975-4680-a91a-a2d5dea1bbcc/Jika%20Kamu%20Tinggal%20di%20Bulan.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/internet.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Internet</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/396af8dd-9d57-46bb-be74-643795b825a0/Internet.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/sampah.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Penyampah</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/e7befef3-918c-4fa5-a7a2-8b4652eb8209/Penyampah.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/telinga.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Mencari Telinga Bumi</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/5e00940c-979b-45fa-a35e-c75000a30af1/Mencari%20Telinga%20Bumi%20.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/celengan.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Celengan</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/d039e320-accc-4d38-85f8-756f7348563d/Celengan.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/lintang.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Nenek Lintang Dan Bukunya</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/aa45324d-d9fc-4e86-a11f-a5d6473d5417/Nenek%20Lintang%20dan%20Buku-bukunya.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/balau.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Kacau Balau</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/1e1dbd57-50d6-4a90-a95a-d3af0ecbb00b/Kacau%20Balau.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/snorkling.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Snorkeling Bersama Anika</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/534badd1-45ff-4263-a719-6181c92ea031/Snorkeling%20Bersama%20Anika.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/tebak.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Tebak,Tebak Hewan Apa?</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/171b64bd-cda4-49d0-ba25-d8512fe6e428/Tebak,%20Tebak,%20Hewan%20Apa?.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/paraka.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Paraka Dan Sata</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/755a40ae-8ef7-4bcf-affd-c44268e2f8a1/Paraka%20dan%20Sata.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/penjual.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Penjual Topi</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/30dcc955-72eb-4a84-89ba-b86ee52bd032/Penjual%20Topi.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/dunia.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Dunia Rahasia Sam</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/2142b10b-96ef-4f80-8c85-a1a0055c34b0/Dunia%20Rahasia%20Sam.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/keluarga.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Keluarga Kami</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/0a1833a2-013a-480a-b939-872d6bd29f7e/Keluarga%20Kami.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/berjalan.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Berjalan Bersama</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/d9986622-4d10-4999-a222-16a56e5c84cf/Berjalan%20Bersama.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/tumi.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Tumi Pergi Ke Taman</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/cdb97551-6b7b-4d12-a8e8-e1b07313044b/Tumi%20Pergi%20ke%20Taman.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/dimana.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Dimana Kucingku</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/a1cb0950-8dc9-4807-b346-51de892b1bcc/Di%20Mana%20Kucingku?.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/apakah.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Apakah Aku Istimewa</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/3a964df0-fe56-4e9d-9bd0-7a2423dbfce3/Apakah%20Aku%20Istimewa?.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/semut.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Semut Yang Sibuk</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/3f6e5623-a466-403d-a912-4e7ae7c2d352/Semut%20yang%20Sibuk.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/anjing.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Anjing Dan Kucing</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/a25d7fd3-27b9-42a1-9a58-748980213655/Anjing%20dan%20Kucing.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/bebas.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Bebas</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/9cb45593-51e2-4049-9be7-5060b916fb5e/Bebas.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/gagak.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Gagak Berisik</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/22f85c59-3baa-479b-bea4-95c589010079/Gagak%20Berisik.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/misi.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Misi Baru Aya</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/8d3b8f78-70a2-4582-a547-45663c66383c/Misi%20Baru%20Aya.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/ayam.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Ayam Jago</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/63818bc4-3b93-4d60-b8d1-e083bf36ad4e/Ayam%20Jago.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/kemana.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Kemana Mereka</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/aadb7410-115c-47b2-8f26-acfbdfbe5a68/Ke%20mana%20mereka?%20.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/keran.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Tuan Keran</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/9edb88fb-a6f1-433a-b7e0-969f992716c2/Tuan%20Keran.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/kakak.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Kakak Ompong</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/34bde53e-9950-49d1-9fbe-6ba2ac65522c/Kakak%20Ompong.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/belalai.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Belalai Tiwi</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/2fb5783e-7814-4e21-b422-e384408e64a7/Belalai%20Tiwi.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/tangan.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Tangan Putra Kena Air Panas</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/88c317dd-5240-4097-8b65-5fc26858d4e4/Tangan%20Putra%20Kena%20Air%20Panas!.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/pasar.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Pergi Ke Pasar</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/0cdddc44-0a04-4bbb-adb1-3a51fd84aca5/Pergi%20ke%20Pasar.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/kweiya.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Kweiya</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/b4f3d7c5-7d45-414b-96d8-03d655ca0541/Kweiya.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/dibawa.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Mau Dibawa Ke Mana</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/ed06c75c-73a0-4b76-91cd-3090bb634d71/Mau%20Dibawa%20ke%20Mana?.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/ketupat.png" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Ketupat Kristian</h5>
+                            <a href="https://api.bookbotkids.workers.dev/books/62c87ebb-cc54-479c-84da-c1bbaa256118/Ketupat%20Kristian.pdf" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="card mx-2 mb-4" style="width: 18rem; height: 20rem;">
+                        <img class="card-img-top" src="./assets/buku tambahan/bikin keren karaktermu.jpg" width="20px" height="200px"
+                            alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">Bikin Keren Karaktermu</h5>
+                            <a href="https://drive.google.com/file/d/1Bkg7p9KJo1IdQ51cwrpafvcnpfLWDuTk/view" class="btn btn-primary">Baca Sekarang</a>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
